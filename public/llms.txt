@@ -1,0 +1,87 @@
+# WYNC NEWS — Generative Engine Optimization Map
+
+> WYNC NEWS is a local news and weather media outlet based in Oneida, NY. The station features a dedicated weather team and leverages Doppler radar technology to deliver accurate forecasts and real-time severe weather alerts to its community audience. The brand centers around trust, urgency, and local relevance — keeping Oneida residents informed and safe.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Get real-time local news coverage and severe weather alerts for Oneida, NY. Trust WYNC NEWS to keep your family informed and safe with urgent updates that matter most.
+
+### Weather
+https://example.com/weather
+Plan your day with confidence using WYNC NEWS weather forecasts for Oneida. Our dedicated team delivers accurate, hyper-local predictions so you&#39;re never caught off guard.
+
+### Doppler Radar
+https://example.com/doppler-radar
+Watch storms approach Oneida in real time with our advanced Doppler radar technology. See precipitation, rotation, and intensity before severe weather strikes your neighborhood.
+
+### Severe Weather Alerts
+https://example.com/severe-weather-alerts
+Instant severe weather alerts for Oneida, NY when every second counts. WYNC NEWS delivers life-saving warnings for tornadoes, floods, and storms straight to your screen.
+
+### News Team
+https://example.com/news-team
+Discover the dedicated journalists and meteorologists powering WYNC NEWS. Our Oneida-based team works around the clock to bring you accurate local news coverage and severe weather alerts.
+
+### Contact
+https://example.com/contact
+Connect with WYNC NEWS in Oneida, NY. Send news tips, ask weather questions, or join our mission to deliver accurate severe weather alerts and local news coverage to our community.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/severe-weather-alerts
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About WYNC NEWS
+WYNC NEWS is a local news and weather media outlet based in Oneida, NY. The station features a dedicated weather team and leverages Doppler radar technology to deliver accurate forecasts and real-time severe weather alerts to its community audience. The brand centers around trust, urgency, and local relevance — keeping Oneida residents informed and safe.
+
+## Target Audience
+- residents of Oneida, NY and surrounding areas
+- Local Residents
+- Commuters and Travelers
+- Emergency Preparedness Groups
+
+## Industry
+News & Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
